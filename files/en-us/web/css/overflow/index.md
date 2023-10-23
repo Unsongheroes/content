@@ -27,7 +27,7 @@ overflow: hidden;
 overflow: clip;
 overflow: scroll;
 overflow: auto;
-overflow: hidden visible;
+overflow: hidden visible; // overflow-x: hidden; overflow-y: visible;
 
 /* Global values */
 overflow: inherit;
